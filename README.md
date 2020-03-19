@@ -59,3 +59,12 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+References
+============
+[Dr.Hindle's Websockets Examples](https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/WebSocketsExamples)
+
+[Using javascript to generate rainbow corlor palette](https://stackoverflow.com/a/32471000)
+Author: [Juan Lopes](https://stackoverflow.com/users/1327235/juan-lopes)
+Function used: HSVtoRGB(h,s,v), rainbow(p)
+modification when using: instead of using an index list for the variable p, I used the position x's value and it worked well.
